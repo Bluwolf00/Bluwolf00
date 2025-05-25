@@ -3,7 +3,7 @@
 # About Me:
 - 🖥️ 5 years deep in the hole that is known as `SQF`
 - 🌐 2 years deep in full-stack web development
-- 🐍 Dabbled with embeded programming (MicroPython)
+- 🐍 Dabbled with embedded programming (MicroPython)
 - ☕ Java...
 
 # Stats:
