@@ -5,6 +5,7 @@
 - 🌐 2 years deep in full-stack web development
 - 🐍 Dabbled with embedded programming (MicroPython)
 - ☕ Java...
+- 🖥️ Beginning C language and understanding pointers...
 
 # Stats:
 
