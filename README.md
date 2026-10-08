@@ -1,11 +1,11 @@
 # Hey There - Welcome to My Profile 👋
 
 # About Me:
-- 🖥️ 5 years deep in the hole that is known as `SQF`
-- 🌐 2 years deep in full-stack web development
+- 🖥️ 6 years deep in the hole that is known as `SQF`
+- 🌐 3 years deep in full-stack web development
 - 🐍 Dabbled with embedded programming (MicroPython)
-- ☕ Java...
-- 🖥️ Beginning C language and understanding pointers...
+- ☕ Java is a language that exists...
+- 🖥️ C Programmer by day, understanding python and SQF by night
 
 # Stats:
 
